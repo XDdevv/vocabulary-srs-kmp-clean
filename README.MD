@@ -1,11 +1,11 @@
-# Vocabulary Flash
+<p align="center"># Vocabulary Flash</p>
 
 ![](https://img.shields.io/badge/Kotlin-Multiplatform-blue)
 ![](https://img.shields.io/badge/Compose-Multiplatform-green)
 ![](https://img.shields.io/badge/Architecture-Clean-orange)
 
 
-# How to run
+## How to run
 
 #### Android
 To run the application on android device/emulator:  
@@ -24,12 +24,12 @@ To run the application on iPhone device/simulator:
  - Open `iosApp/iosApp.xcproject` in Xcode and run standard configuration  
  - Or use [Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile) for Android Studio  
 
-# Find this repository useful? ❤️
+## Find this repository useful? ❤️
 
 Support it by joining [stargazers](https://github.com/XDdevv/vocabulary-srs-kmp-clean/stargazers) for this repository. ⭐
 Also, [follow me](https://github.com/XDdevv/) on GitHub for my next creations! 🤩
 
-# License
+## License
 ```
 Designed and developed by 2025 rainxchzed (Usmon Narzullaev)
 
