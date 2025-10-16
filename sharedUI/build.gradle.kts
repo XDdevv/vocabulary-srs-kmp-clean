@@ -52,6 +52,7 @@ kotlin {
             implementation(libs.room.runtime)
             implementation(libs.kstore)
             implementation(libs.materialKolor)
+            implementation(libs.navigation.compose)
         }
 
         commonTest.dependencies {
